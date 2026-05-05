@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "acr.browser.lightning",
+    "sha256_cert_fingerprints": ["FA:C6:17:45:DC:09:03:78:6C:B9:ED:62:0B:99:2F:97:A4:6C:8B:B0:D6:F2:20:3E:08:DC:40:BC:C1:AA:46:AD"]
+  }
+}]
+
